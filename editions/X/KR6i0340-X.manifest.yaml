@@ -1,0 +1,162 @@
+canonical_identifier: bkk:krp/KR6i0340/X/v1
+canonical_location: https://kanripo.org/bkk/KR6i0340/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 楞伽經集註
+  identifiers:
+    krp: KR6i0340
+    cbeta: X17n0324
+    cbeta_old_id: X17n0324
+    authorityid: CA0001946
+    json_key: X0324
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X17/X17n0324.xml
+    old_id: X17n0324
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 1, filename: KR6i0340_001-X.yaml, hash: 'sha256:4e2c43457a3778cbc43b5cfa4ebab11f297eb8e368e9c40c300d485134797dab'}
+  - {seq: 2, filename: KR6i0340_002-X.yaml, hash: 'sha256:e2c29ae19ea11804cd0d1c96aa6197a7a91f54e827201528d6fa2dc718bb7688'}
+  - {seq: 3, filename: KR6i0340_003-X.yaml, hash: 'sha256:d4d73f6d6683ccda94eb535e7c6e2c21987b8f3c34984ec00611189263ea3ea5'}
+  - {seq: 4, filename: KR6i0340_004-X.yaml, hash: 'sha256:7213496cc8aae5249639798a53d34d1d04f7d722a50333e9e0508e74e10ae453'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0340_001-X.markers.yaml, hash: 'sha256:8fcb3a487f6ec024c37263463751daa2b90682d4c5d18230b3c9863e64815516'}
+  - {seq: 2, role: markers, filename: assets/KR6i0340_002-X.markers.yaml, hash: 'sha256:8c87d28ad9698924e4d2a4f723d2fb33b364ce6a2aede0bd0ea36d275957d1de'}
+  - {seq: 3, role: markers, filename: assets/KR6i0340_003-X.markers.yaml, hash: 'sha256:7db19a77545770deb47cb3aafc69773cc76ed1087fc98745fffef8d3f33f6ed9'}
+  - {seq: 4, role: markers, filename: assets/KR6i0340_004-X.markers.yaml, hash: 'sha256:3f3b71f08e7ac5d7c3d296b01f9e52d5a285e804a088a6e1621d45c9e3a43061'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0340_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 29376
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0340_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: No. 324-A 集註楞伽阿䟦多羅寶經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0340_X_001-mulu-2
+    span:
+    - body
+    - 951
+    - 951
+  label: No. 324-B 楞伽阿跋多羅寶經集註題辭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0340_X_001-mulu-3
+    span:
+    - body
+    - 1707
+    - 1707
+  label: 大明洪武辛亥重刊楞伽經集註凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0340_X_001-mulu-4
+    span:
+    - body
+    - 2395
+    - 2395
+  label: 經題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0340_X_001-mulu-5
+    span:
+    - body
+    - 2845
+    - 2845
+  label: 一切佛語心品第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0340_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 24110
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0340_X_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 一切佛語心品第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0340_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 21986
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0340_X_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 一切佛語心品第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0340_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 28757
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0340_X_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 一切佛語心品第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0340_X_004-mulu-2
+    span:
+    - body
+    - 27717
+    - 27717
+  label: No. 324-C 閣筆記
+  type: mulu
+  level: 1
+hash: sha256:e085543f9643fb5b58ba3bb5766356ae68b545c2d81d7b0ef80644b912c754c0
